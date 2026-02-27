@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZC_LBMT'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZC_LBMT'
+  }
+}
+define service ZUI_LBMT_O4 provider contracts odata_v4_ui {
+  expose ZC_LBMT;
+}
