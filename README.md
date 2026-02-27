@@ -32,7 +32,7 @@ The domain acts as the technical "blueprint." It restricts what kind of data can
 * `SCIFI` - Sci-Fi
 * `BIO` - Biography
 
-### 2. The Data Element: `ZBOOK_CAT_DE`
+### 2. The Data Element: `ZLGM_CATAGORY_083`
 
 The Data Element provides the context. While the domain says "this is a 10-char string," the Data Element says "this string represents a Book Category."
 
